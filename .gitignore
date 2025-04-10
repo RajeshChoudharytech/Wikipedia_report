@@ -1,0 +1,15 @@
+/myenv
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+build/
+.env
+.idea/
+.vscode/
+*.pyc
+__pycache__/
